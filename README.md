@@ -1,2 +1,2 @@
 # desktop
-AnjularJS-huyunzhen
+AngularJS-huyunzhen
